@@ -10,5 +10,5 @@ This project implements state estimation and regime-switching models to analyze 
 - **Stationarity Analysis:** Conducted rolling mean and variance tests to demonstrate how smoothing restores practical stationarity to noisy signals.
 
 ## Files
-- [View Technical Report](./ASP_FINAL_F.pdf)# stochastic-weather-estimation
+- [View Technical Report](ASP_Final_F.pdf)# stochastic-weather-estimation
 Implementing Kalman Filters and Hidden Markov Models (HMM) for temperature smoothing and state decoding.
